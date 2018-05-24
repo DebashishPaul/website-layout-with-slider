@@ -1,0 +1,28 @@
+.nopad{padding: 0;}
+.navbar-brand>img{height: 25px;}
+#nav_bar{background: #b9f6ca;border-radius: 0px;}
+.navbar-default .navbar-nav>li>a {color: black;
+    font-weight: bold;
+    text-transform: uppercase;}
+.active a{background: #00e676 !important;color: #6a1b9a !important}
+.carousel-inner>.item>img{width: 100%}
+.slider_part{margin-top: -20px;}
+.carousel-control.left{background-image: none;}
+.carousel-control.left:hover{color: red}
+.carousel-control.right{background-image: none;}
+.carousel-control.right:hover{color: red}
+.carousel-indicators .active {
+    width: 12px;
+    height: 18px;
+
+    background-color: #ff6f00;
+}
+.carousel-indicators li {
+    width: 18px;
+    height: 18px;
+
+border: 1px solid red;
+    border-radius: 5px;
+}
+.pf_part{background: #37474f }
+.image_section{margin-top: 10px;}
